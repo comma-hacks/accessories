@@ -2,6 +2,10 @@
 
 This adapter mates the comma body with the Intel-designed combo bracket for the T265 and D435 tracking and depth sensors.
 
+Learn more about this setup at these links:
+- https://github.com/IntelRealSense/librealsense/tree/master/examples/tracking-and-depth
+- https://www.intelrealsense.com/depth-and-tracking-combined-get-started/
+
 ### Software
 
 You may find sample code in the [tracking-and-depth example in librealsense](https://github.com/IntelRealSense/librealsense/tree/master/examples/tracking-and-depth).
