@@ -4,6 +4,10 @@ Designed to protect the display in the event of a crash.
 
 [You can buy the Helmet directly from my Shapeways store here here!](https://www.shapeways.com/shops/openeyerobot)
 
+## V2.1
+
+* Base: Removed a bit of material to fit the head of the C3 stand's M6 bolt
+
 ## V2
 
 * Split into two parts, the Base and the Frame
