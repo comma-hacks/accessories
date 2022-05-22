@@ -2,6 +2,8 @@
 
 Designed to protect the display in the event of a crash.
 
+[You can buy the Helmet directly from my Shapeways store here here!](https://www.shapeways.com/shops/openeyerobot)
+
 ## V2
 
 * Split into two parts, the Base and the Frame
