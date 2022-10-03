@@ -1,6 +1,10 @@
 # Helmet
 
-Designed to protect the display in the event of a crash.
+Designed to protect the display in the event of a crash. 
+
+## Shroud Split Variant
+
+@banada contributed a split variant for small printers. In this version the two halves can be screwed together with a M4*20 bolt.
 
 [You can buy the Helmet directly from my Shapeways store here here!](https://www.shapeways.com/shops/openeyerobot)
 
